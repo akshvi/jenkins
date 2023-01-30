@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-29T14:01:53Z" name="Suite" finished-at="2023-01-29T14:01:53Z" duration-ms="25">
+    <groups>
+    </groups>
+    <test started-at="2023-01-29T14:01:53Z" name="Test" finished-at="2023-01-29T14:01:53Z" duration-ms="25">
+      <class name="Sample.Practise.FirstCode">
+        <test-method signature="login()[pri:0, instance:Sample.Practise.FirstCode@7674b62c]" started-at="2023-01-29T19:31:53Z" name="login" finished-at="2023-01-29T19:31:53Z" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- Sample.Practise.FirstCode -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
